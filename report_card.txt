@@ -1,3 +1,5 @@
-|	Roll No.		|			Name			|				Marks				|
-|       			|				            |	OOP		|  DSA		|  DBMS		|
-| 119               | Somoprovo Bhattacharjee   |    90     |  89       |  92       |
+|	Roll No.	|			Name			|				Marks					|
+|       		|					        |	OOP		|  	DSA		|  	DBMS		|
+|	117		|		Manosrija Nasrin		|	94		|	64		|	78		
+| 	119     | 		Somoprovo Bhattacharjee |    	90  |  	89      |  	92      
+|	120		|		Ayantik Bhaumik			|	91		|	78		|	67
