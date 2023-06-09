@@ -6,5 +6,4 @@
 |	121		|		Aryan Chowdhury1		|	89		|	65		|	80		| 
 |	120		|		Som  opro				|  
 |	121		| 		Aryan Chowdhury			|	90		|	60		|	70		|
-|	122		| 		Aryan Chowdhury	1		|	90		|	60		|	70		|
-|	123		| 		Aryan Chowdhury	2		|	90		|	60		|	70		|
+
