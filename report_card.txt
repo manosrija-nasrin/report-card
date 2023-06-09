@@ -5,8 +5,5 @@
 | 	119             | 		Somoprovo Bhattacharjee   	|	90     		|  	89       	|  	92       	|
 |	120		|		Ayantik Bhaumik			|	91		|	78		|	67		|
 |	121		|		Aryan Chowdhury			|	89		|	65		|	80		| 
-<<<<<<< HEAD
 |	121		|		Aryan Chowdhury1		|	89		|	65		|	80		| 
 |	120		|		Som  opro				|  
-=======
->>>>>>> d19297a60c77afb7f7d44a5f691be3243c6003cc
