@@ -1,2 +1,3 @@
 |	Roll No.		|			Name			|				Marks				|
-|					|							|	OOP		|  DSA		|  DBMS		|
+|       			|				            |	OOP		|  DSA		|  DBMS		|
+| 119               | Somoprovo Bhattacharjee   |    90     |  89       |  92       |
