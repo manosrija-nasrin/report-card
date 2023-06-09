@@ -5,5 +5,3 @@
 | 	119             | 		Somoprovo Bhattacharjee   	|	90     		|  	89       	|  	92       	|
 |	120		|		Ayantik Bhaumik			|	91		|	78		|	67		|
 |	121		|		Aryan Chowdhury			|	89		|	65		|	80		| 
-|	121		|		Aryan Chowdhury1		|	89		|	65		|	80		| 
-|	120		|		Som  opro				|  
