@@ -1,9 +1,7 @@
 |	Roll No.	|			Name			|				Marks					|
 |       		|					      	|	OOP		|  	DSA		|  	DBMS		|
+| 	117             | 		Manosrija Nasrin	 	|	94     		|  	89       	|  	92       	|
+| 	118             | 		Arijit Saha		   	|	90     		|  	89       	|  	92       	|
 | 	119             | 		Somoprovo Bhattacharjee   	|	90     		|  	89       	|  	92       	|
 |	120		|		Ayantik Bhaumik			|	91		|	78		|	67		|
-|	121		|		Xyz Chowdhury			|	89		|	65		|	80		| 
-|	121		|		Xyz Chowdhury1		|	89		|	65		|	80		| 
-|	120		|		Som  opro				|  
-|	121		| 		Xyz Chowdhury			|	90		|	60		|	70		|
 |	121		| 		Aryan Chowdhury			|	90		|	60		|	70		|
